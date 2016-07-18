@@ -10,3 +10,8 @@ Currently requires:
 2. Obviously a G930.
 
 3. Exception in some antiviruses (my bitdefender did some trouble when trying to compile).
+
+
+A compiled version can be downloaded here:
+
+https://github.com/Crapy/G930Helper/blob/master/bin/Debug/G930Helper.exe
