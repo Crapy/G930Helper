@@ -1,0 +1,12 @@
+C:\Users\dorda\Desktop\כל מיני\Projects\G930Helper\G930Helper\G930Helper\bin\Debug\G930Helper.exe.config
+C:\Users\dorda\Desktop\כל מיני\Projects\G930Helper\G930Helper\G930Helper\obj\Debug\G930Helper.csprojResolveAssemblyReference.cache
+C:\Users\dorda\Desktop\כל מיני\Projects\G930Helper\G930Helper\G930Helper\obj\Debug\G930Helper.Form1.resources
+C:\Users\dorda\Desktop\כל מיני\Projects\G930Helper\G930Helper\G930Helper\obj\Debug\G930Helper.Properties.Resources.resources
+C:\Users\dorda\Desktop\כל מיני\Projects\G930Helper\G930Helper\G930Helper\obj\Debug\G930Helper.csproj.GenerateResource.Cache
+C:\Users\dorda\Desktop\כל מיני\Projects\G930Helper\G930Helper\G930Helper\bin\Debug\G930Helper.exe
+C:\Users\dorda\Desktop\כל מיני\Projects\G930Helper\G930Helper\G930Helper\obj\Debug\G930Helper.exe
+C:\Users\dorda\Desktop\כל מיני\Projects\G930Helper\G930Helper\G930Helper\obj\Debug\G930Helper.pdb
+C:\Users\dorda\Desktop\כל מיני\Projects\G930Helper\G930Helper\G930Helper\bin\Debug\G930Helper.pdb
+C:\Users\dorda\Desktop\כל מיני\Projects\G930Helper2\G930Helper\G930Helper\bin\Debug\G930Helper.exe.config
+C:\Users\dorda\Desktop\כל מיני\Projects\G930Helper2\G930Helper\G930Helper\obj\Debug\G930Helper.exe
+C:\Users\dorda\Desktop\כל מיני\Projects\G930Helper2\G930Helper\G930Helper\obj\Debug\G930Helper.pdb
